@@ -1,7 +1,7 @@
 # yugioh-ccd
 A Yu-Gi-Oh! TCG complete database with reproducible scripts for refreshing data primarily hosted on Kaggle
 
-[Click Here to View Dataset](https://www.kaggle.com/datasets/hammadus/yugioh-full-card-database-index-august-1st-2025)
+<a href="https://www.kaggle.com/datasets/hammadus/yugioh-full-card-database-index-august-1st-2025" target="_blank">Click here to view data on Kaggle</a>
 
 # Yu-Gi-Oh! Complete Card Database
 
